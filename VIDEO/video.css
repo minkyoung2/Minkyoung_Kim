@@ -40,3 +40,9 @@ ul li{
     opacity: 0.5;
 }
 
+@media (max-width: 767.98px) {
+    ul{
+      right: 0px;
+      width: 20%;
+    }
+  }
