@@ -37,3 +37,10 @@ p{
     width: 40%;
     opacity: 0.8;
 }
+
+@media (max-width: 767.98px) {
+    ul{
+      right: 0px;
+      width: 20%;
+    }
+  }
