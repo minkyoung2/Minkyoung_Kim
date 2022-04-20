@@ -1439,6 +1439,7 @@ figure.dotted-bg:before {
   font-weight: 900;
   color: #85e6e5;
   padding: 10px 0;
+  letter-spacing: 1px;
 }
 
 .feature-v1 p {
