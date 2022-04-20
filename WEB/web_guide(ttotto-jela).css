@@ -34,3 +34,10 @@ p{
     margin-bottom: 50px;
     padding-top: 50px;
 }
+
+@media (max-width: 767.98px) {
+    ul{
+      right: 0px;
+      width: 20%;
+    }
+  }
