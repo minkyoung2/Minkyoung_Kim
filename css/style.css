@@ -2335,3 +2335,9 @@ a{
 .top:hover{
   opacity: 0.5;
 }
+
+@media (max-width: 991.98px) {
+  .top {
+    display: none;
+  }
+}
