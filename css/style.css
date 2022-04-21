@@ -1439,7 +1439,6 @@ figure.dotted-bg:before {
   font-weight: 900;
   color: #85e6e5;
   padding: 10px 0;
-  letter-spacing: 0.5px;
 }
 
 .feature-v1 p {
@@ -2159,7 +2158,7 @@ span.error {
 }
 
 .col-lg-4 h3{
-  letter-spacing: 3px;
+  letter-spacing: 1px;
   line-height: 35px;
 }
 
