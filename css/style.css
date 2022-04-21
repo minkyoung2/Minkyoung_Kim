@@ -2358,3 +2358,9 @@ a{
 .about_img{
   padding-left: 100px;
 }
+
+@media (max-width: 767.98px) {
+  .about img{
+    padding-left: 0;
+  }
+}
