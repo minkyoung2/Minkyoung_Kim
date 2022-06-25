@@ -1281,6 +1281,7 @@ figure.dotted-bg:before {
   height: 224px;
   background-image: url("../images/dotted_light.png");
   background-repeat: no-repeat;
+  display: none;
 }
 
 @media (max-width: 991.98px) {
